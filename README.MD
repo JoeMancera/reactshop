@@ -1,6 +1,6 @@
-# 🛒&nbsp;ReactSop
+# 🛒&nbsp;ReactShop
 
-> Proyecto hecho con el [curso de hooks](https://platzi.com/clases/react-hooks/) de Platzi en donde pongo en parctica lo aprendido
+> Proyecto hecho con el [curso de hooks](https://platzi.com/clases/react-hooks/) de Platzi y el [curso de REACT de MIDUDEV](https://www.youtube.com/watch?v=T_j60n1zgu0&list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) en donde pongo en parctica lo aprendido. 
 
 # 🕹&nbsp;Tecnologias
 
@@ -16,3 +16,8 @@
 2. `npm run start`
 
 # 💎&nbsp;Recursos extra
+- [contectBase Webpack error](https://gist.github.com/johnrichardrinehart/c8ec6ab1e60f39fc3b8dc738db649ec0#gistcomment-3671457)
+- [¿Hay una forma recomendada de estructurar los proyectos React?](https://es.reactjs.org/docs/faq-structure.html)
+- [The state of babel-eslint](https://babeljs.io/blog/2020/07/13/the-state-of-babel-eslint)
+- [Reglas de linting para StandardJS](https://standardjs.com/rules.html)
+- 
